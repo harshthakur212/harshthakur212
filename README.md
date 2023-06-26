@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Reactjs and Redux for development**
 
-- 🌱 I’m currently learning **Nodejs and Expressjs for development**
+- 🌱 Also, learning **Nodejs and Expressjs for development**
 
 - 👨‍💻 All of my projects are available at [https://harsh212.netlify.app/](https://harsh212.netlify.app/)
 
